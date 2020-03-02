@@ -1,0 +1,11 @@
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  img {
+    width: 20%;
+    opacity: 1;
+    cursor: pointer;
+  }
+}
